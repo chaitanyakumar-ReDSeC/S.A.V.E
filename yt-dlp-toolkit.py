@@ -211,21 +211,20 @@ def run_downloader():
             cmd = []
 
             if choice == '1':
-                selected_format = get_available_qualities(url, 'audio')
-                if selected_format:
-                    cmd = [
-                        'yt-dlp', 
-                        '-f', selected_format, 
-                        '-x', 
-                        '--audio-format', 'mp3', 
-                        '--audio-quality', '320K',  # This forces the 320kbps conversion
-                        '--embed-thumbnail', 
-                        '--convert-thumbnails', 'jpg', 
-                        '--embed-metadata', 
-                        '-P', current_path, 
-                        '-o', output_template, 
-                        url
-                    ]
+                # 'bestaudio/best' grabs the highest quality source automatically
+                cmd = [
+                    'yt-dlp', 
+                    '-f', 'bestaudio/best', 
+                    '-x', 
+                    '--audio-format', 'mp3', 
+                    '--audio-quality', '0',  # '0' tells ffmpeg to use the highest VBR/quality of the source
+                    '--embed-thumbnail', 
+                    '--convert-thumbnails', 'jpg', 
+                    '--embed-metadata', 
+                    '-P', current_path, 
+                    '-o', output_template, 
+                    url
+                ]
             
             elif choice == '2':
                 selected_format = get_available_qualities(url, 'video')
