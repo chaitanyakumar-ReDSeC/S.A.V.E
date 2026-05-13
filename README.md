@@ -5,7 +5,7 @@
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe">
+<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v2.0.0.0/yt-dlp.Toolkit.exe">
   <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/yt-dlp-toolkit/yt-dlp-toolkit_poster.png" alt="YT-DLP Toolkit Banner">
 </a>
 
@@ -29,7 +29,7 @@ Developed by **Chaitanya Kumar Sathivada**.
 
 Click on the button below to download the .exe file of the tool. It is expected by your Windows seeking for a confirmation as the files are unlicensed. Please choose "**Keep Anyway**" when downloading and uncheck "**Always ask before opening this type of file.**" on the dialogue box that pops up when launching the .exe file downloaded. 
 
-<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe">
+<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v2.0.0.0/yt-dlp.Toolkit.exe">
   <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="Download Now" height=50>
 </a>
 
