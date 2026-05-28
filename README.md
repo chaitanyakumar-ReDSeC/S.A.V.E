@@ -1,4 +1,4 @@
-# <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/general/image_assets/yt-dlp-toolkit.png" height=35> S.A.V.E (Stream Audio Video Extractor)
+# <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/yt-dlp-toolkit.png" height=35> S.A.V.E (Stream Audio Video Extractor)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![yt--dlp](https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white)
@@ -10,15 +10,15 @@
 
 Developed by **Chaitanya Kumar Sathivada**.
 
-<a href="https://github.com/ChaitanyaKumarS2403">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
+<a href="https://github.com/chaitanyakumar-ReDSeC">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
 </a>
 <a href="https://www.linkedin.com/in/chaitanya-kumar-sathivada/">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 **NOTE**: This tool *does not work* with platforms having **DRM Protection**.
@@ -29,12 +29,12 @@ Download the latest version by clicking the button below.
 
 > **Important:** As this is an independent build, Windows may prompt a security warning. Choose **"Keep Anyway"** and uncheck **"Always ask before opening this type of file"** when launching.
 
-<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/latest">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="Download Now" height=50>
+<a href="https://github.com/chaitanyakumar-ReDSeC/yt-dlp-toolkit/releases/latest">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="Download Now" height=50>
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 ## ✨ Features
@@ -49,7 +49,7 @@ Download the latest version by clicking the button below.
 - **System Dependencies:** S.A.V.E will automatically detect or assist in installing `yt-dlp` and `FFmpeg` via the internal Settings menu.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 ## 📜 License
