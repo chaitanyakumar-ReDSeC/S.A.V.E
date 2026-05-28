@@ -1,13 +1,12 @@
-# <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/general/image_assets/yt-dlp-toolkit.png" height=35> YT-DLP TOOLKIT 
+# <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/general/image_assets/yt-dlp-toolkit.png" height=35> S.A.V.E (Stream Audio Video Extractor)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![yt--dlp](https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0078D6?logo=ffmpeg&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v2.0.0.0/yt-dlp.Toolkit.exe">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/yt-dlp-toolkit/yt-dlp-toolkit_poster.png" alt="YT-DLP Toolkit Banner">
-</a>
+**S.A.V.E** , named after the backronym "Stream Audio Video Extractor", is a professional-grade command-line utility designed to streamline the extraction and downloading of media content from web streams. Engineered for efficiency and ease of use, it provides a seamless interface for managing your media library.
 
 Developed by **Chaitanya Kumar Sathivada**.
 
@@ -18,28 +17,40 @@ Developed by **Chaitanya Kumar Sathivada**.
   <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
 </a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 **NOTE**: This tool *does not work* with platforms having **DRM Protection**.
 
+## 💿 Get The Tool! 
+
+Download the latest version by clicking the button below. 
+
+> **Important:** As this is an independent build, Windows may prompt a security warning. Choose **"Keep Anyway"** and uncheck **"Always ask before opening this type of file"** when launching.
+
+<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/latest">
+  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="Download Now" height=50>
+</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 💿 Get The Tool! 
-
-Click on the button below to download the .exe file of the tool. It is expected by your Windows seeking for a confirmation as the files are unlicensed. Please choose "**Keep Anyway**" when downloading and uncheck "**Always ask before opening this type of file.**" on the dialogue box that pops up when launching the .exe file downloaded. 
-
-<a href="https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v2.0.0.0/yt-dlp.Toolkit.exe">
-  <img src="https://github.com/ChaitanyaKumarS2403/assets/raw/main/projects_repo/Misc/DownloadNow.png" alt="Download Now" height=50>
-</a>
-
-
+## ✨ Features
+- **Dual-Mode Operation:** Dedicated workflows for Audio (MP3, WAV, M4A) and Video (MKV, MP4) extraction.
+- **Intelligent Embedding:** Automatic metadata and thumbnail integration for supported formats.
+- **Proactive Management:** Built-in Windows `winget` integration for seamless dependency installation and updates.
+- **Modern Terminal UI:** A clean, branded interface with real-time system status monitoring.
+- **User-Centric Navigation:** Intuitive menu system with quick-exit shortcuts (`//` to go back).
 
 ### Prerequisites
+- **Python 3.13.9+**
+- **System Dependencies:** S.A.V.E will automatically detect or assist in installing `yt-dlp` and `FFmpeg` via the internal Settings menu.
 
-- **Python 3.13.9**
-- **yt-dlp:** Must be installed and added to your System PATH.
-- **FFmpeg:** Required for MP3 conversion and metadata embedding.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
