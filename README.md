@@ -18,7 +18,11 @@ Developed by **Chaitanya Kumar Sathivada**.
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/S.A.V.E/save_banner.png" width="100%">
 </p>
 
 **NOTE**: This tool *does not work* with platforms having **DRM Protection**.
@@ -34,7 +38,7 @@ Download the latest version by clicking the button below.
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 ## ✨ Features
@@ -49,7 +53,7 @@ Download the latest version by clicking the button below.
 - **System Dependencies:** S.A.V.E will automatically detect or assist in installing `yt-dlp` and `FFmpeg` via the internal Settings menu.
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
 </p>
 
 ## 📜 License

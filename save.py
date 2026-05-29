@@ -66,7 +66,7 @@ def render_ui(status, path):
     print(" ║                  (Stream Audio Video Extractor)                  ║")
     print(" ║                                                                  ║")
     print(f" ║{RESET}{WHITE}                Credits: Chaitanya Kumar Sathivada                {RED}{BOLD}║")
-    print(f" ║{RESET}{WHITE}            GitHub: https://github.com/ChaitanyaKumarS2403        {RED}{BOLD}║")
+    print(f" ║{RESET}{WHITE}          GitHub: https://github.com/chaitanyakumar-ReDSeC        {RED}{BOLD}║")
     print(" ╚══════════════════════════════════════════════════════════════════╝")
     print(f"{RESET}")
     print(f"{RED}" + "="*70 + f"{RESET}")
